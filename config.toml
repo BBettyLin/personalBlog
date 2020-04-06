@@ -1,4 +1,4 @@
-baseurl = "blumin.me"
+baseurl = "http://blumin.me"
 title = "Hey there, I'm Betty"
 
 theme = "hugo-coder"
