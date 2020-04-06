@@ -1,4 +1,4 @@
-baseurl = "http://blumin.me"
+baseurl = "http://blumin.netlify.com"
 title = "Hey there, I'm Betty"
 
 theme = "hugo-coder"
