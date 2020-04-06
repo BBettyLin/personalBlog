@@ -15,7 +15,7 @@ series = ["Research Papers"]
 
 # Introduction
 
-Hello, my name is Betty Lin and this will be a blog recounting my experience on writing a research paper about Link Predicition Methods for Computing Science Studio in 2019. 
+Hello, my name is Betty Lin and this will be a blog recounting my experience on writing a research paper about Link Predicition Methods for Computing Science Studio 1 **(41078)** in 2019. 
 
 If you would like to read about something that I am currently in the process of doing (as of April 2020), [Machine Learning for Cancer Predicition](../research-project-two), would be a better post to read.
 
