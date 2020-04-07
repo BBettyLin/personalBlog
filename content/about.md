@@ -5,7 +5,7 @@ slug = "about" #printed in the url
 
 # What is there to know?
 
-My name is Betty Lin and I am currently a student studying at the University of Technology Sydney (UTS). I enjoy creating things, and have a passion for cyber and am always looking to expand and grow my skills in coding.
+My name is Betty Lin and I am currently a student studying at the University of Technology Sydney (UTS). I enjoy creating things, have a passion for cyber and am always looking to expand and grow my skills in coding.
 
 When I'm not building up my skills, I enjoy drawing, playing games and collecting stationery! 
 
